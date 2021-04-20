@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "resultmap",
+      "type": "edu.nuist.qdb.service.ajax.result.ResultMap",
+      "sourceType": "edu.nuist.qdb.service.ajax.result.ResultMap"
+    }
+  ],
+  "properties": [
+    {
+      "name": "resultmap.map",
+      "type": "java.util.HashMap<java.lang.String,java.util.LinkedList<edu.nuist.qdb.service.ajax.result.Result>>",
+      "sourceType": "edu.nuist.qdb.service.ajax.result.ResultMap"
+    },
+    {
+      "name": "resultmap.results",
+      "type": "java.util.List<edu.nuist.qdb.service.ajax.result.Result>",
+      "sourceType": "edu.nuist.qdb.service.ajax.result.ResultMap"
+    }
+  ],
+  "hints": []
+}
